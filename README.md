@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CzarGarcia
 - 👀 I’m interested in  watch movies  and  try new things
 - 🌱 I’m currently studyng ingenier software
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me: whatsapp 5632094854
 
 <!---
