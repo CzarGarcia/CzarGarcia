@@ -51,7 +51,7 @@ I'm **Cesar Jair García Navarro**, a Full Stack Software Engineer based in **Gu
       <p>⚙️ <b>Real-world domains:</b> business software, ERPs, internal systems and PLC data collection.</p>
     </td>
     <td width="44%" valign="middle" align="center">
-      <img src="./assets/terminal.gif" width="100%" alt="Animated terminal: build, deploy and healthy production status" />
+      <img src="./assets/terminal.svg" width="100%" alt="Terminal illustration: successful build, deploy and healthy production status" />
     </td>
   </tr>
 </table>
