@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Cesar Jair García Navarro — Full Stack Software Engineer">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".6" stop-color="#0b1d36"/><stop offset="1" stop-color="#122d55"/></linearGradient>
+<linearGradient id="blue" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#2563eb" stop-opacity=".35"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#93c5fd" stroke-width=".6" stroke-opacity=".12" fill="none"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+<ellipse cx="960" cy="35" rx="410" ry="310" fill="url(#halo)"/>
+<path d="M0 2H1200" stroke="url(#blue)" stroke-width="4"/>
+<path d="M0 337H1200" stroke="url(#blue)" stroke-width="4" opacity=".75"/>
+<rect x="45" y="37" width="40" height="40" rx="10" fill="#0d3156" stroke="#38bdf8" stroke-opacity=".7"/>
+<text x="65" y="63" font-family="Arial,sans-serif" font-size="17" font-weight="800" text-anchor="middle" fill="#e0f2fe">CG</text>
+<text x="102" y="62" fill="#9dd9f8" font-family="Arial,sans-serif" font-weight="700" letter-spacing="2" font-size="13">SOFTWARE ENGINEERING</text>
+<path d="M46 103H743" stroke="#4f7ca8" stroke-opacity=".4"/>
+<text x="46" y="179" font-size="66" font-weight="800" fill="white" font-family="Arial,Helvetica,sans-serif">CESAR JAIR</text>
+<text x="46" y="240" font-size="58" font-weight="800" fill="url(#blue)" font-family="Arial,Helvetica,sans-serif" letter-spacing="-1">GARCÍA NAVARRO</text>
+<text x="49" y="280" fill="#d1e5f6" font-size="20" font-family="Arial,Helvetica,sans-serif">Full Stack Engineer  <tspan fill="#3b82f6">/</tspan>  API Builder  <tspan fill="#3b82f6">/</tspan>  Systems Thinker</text>
+<text x="49" y="310" fill="#80a4c2" font-size="13" letter-spacing="1" font-family="Arial,Helvetica,sans-serif">GUADALAJARA, MEXICO  ·  DESIGN  →  BUILD  →  DEPLOY</text>
+<rect x="816" y="43" width="338" height="251" rx="14" fill="#071321" stroke="#2b547c" stroke-width="1.4"/>
+<path d="M830 43H1140Q1154 43 1154 57V83H816V57Q816 43 830 43" fill="#112841"/>
+<circle cx="842" cy="64" r="5" fill="#fb7185"/><circle cx="862" cy="64" r="5" fill="#fbbf24"/><circle cx="882" cy="64" r="5" fill="#34d399"/>
+<text x="983" y="69" text-anchor="middle" fill="#9ebbd4" font-family="monospace" font-size="12">~/engineering</text>
+<g font-family="monospace">
+<text x="840" y="115" fill="#38bdf8" font-size="15">$ <tspan fill="#dcebf8">whoami</tspan></text>
+<text x="841" y="142" fill="#ffffff" font-size="17" font-weight="700">full-stack engineer</text>
+<text x="840" y="171" fill="#38bdf8" font-size="15">$ <tspan fill="#dcebf8">focus --list</tspan></text>
+<text x="840" y="199" fill="#a4c7de" font-size="13">→ Enterprise applications</text>
+<text x="840" y="222" fill="#a4c7de" font-size="13">→ APIs &amp; integrations</text>
+<text x="840" y="245" fill="#a4c7de" font-size="13">→ Industrial software</text>
+</g>
+<rect x="837" y="259" width="299" height="24" rx="6" fill="#0d2c2c" stroke="#245d55"/>
+<circle cx="850" cy="271" r="4" fill="#4ade80"/>
+<text x="863" y="275" fill="#86efac" font-family="monospace" font-size="11">OPEN TO OPPORTUNITIES</text>
+</svg>
